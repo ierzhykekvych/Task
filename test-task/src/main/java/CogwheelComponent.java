@@ -6,7 +6,7 @@ import org.openqa.selenium.support.How;
 public class CogwheelComponent extends CommonPageObject {
 
     private static final String LOG_OUT_BUTTON = "[class=\"mega-octicon octicon-gear\"]";
-
+//
     @FindBy(how = How.CSS, using = LOG_OUT_BUTTON)
     private WebElement logOutButton;
 
