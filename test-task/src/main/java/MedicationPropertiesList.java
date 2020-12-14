@@ -10,7 +10,7 @@ import java.util.List;
 public class
 MedicationPropertiesList extends CommonPageObject {
 
-    //private static final String OPTIONS_MEDICATION = "//*[@id=\"ember765\"]/div[2]";
+    private static final String OPTIONS_MEDICATION = "//*[@id=\"ember765\"]/div[2]";
     private static final String REQUEST = "//a[@class=\"category-sub-item nav-link active ember-view\"]";
     private static final String NEW_REQUEST = "[href=\"#/medication/edit/new\"]";
     private static final String COMPLETED = "[href=\"#/medication/completed\"]";
