@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f5d3b328-a401-4fe1-8bb1-6f3ffa540814" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/bin/allure" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/bin/allure.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/config/allure-cucumber.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/config/allure-junit.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/config/allure.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/lib/allure-commandline-2.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/lib/allure-generator-2.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/lib/allure-plugin-api-2.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/lib/allure1-model-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/lib/allure2-model-api-1.0-BETA4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/lib/allure2-model-jackson-1.0-BETA4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/lib/allure2-model-pojo-1.0-BETA4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/lib/asm-5.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/lib/asm-analysis-5.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/lib/asm-tree-5.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/lib/asm-util-5.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/lib/commons-io-2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/lib/config/jetty-logging.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/lib/config/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/lib/freemarker-2.3.23.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/lib/jackson-annotations-2.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/lib/jackson-core-2.8.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/lib/jackson-databind-2.8.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/lib/jackson-dataformat-yaml-2.8.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/lib/jackson-module-jaxb-annotations-2.8.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/lib/javax.servlet-api-3.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/lib/jaxb-utils-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/lib/jcommander-1.64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/lib/jetty-http-9.2.2.v20140723.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/lib/jetty-io-9.2.2.v20140723.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/lib/jetty-server-9.2.2.v20140723.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/lib/jetty-util-9.2.2.v20140723.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/lib/parboiled-core-1.1.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/lib/parboiled-java-1.1.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/lib/pegdown-1.6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/lib/properties-2.0.RC5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/lib/slf4j-api-1.7.21.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/lib/slf4j-log4j12-1.7.21.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/lib/snakeyaml-1.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/lib/tika-core-1.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/plugins/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/plugins/behaviors-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/plugins/behaviors-plugin/plugin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/plugins/behaviors-plugin/static/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/plugins/custom-logo-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/plugins/custom-logo-plugin/static/custom-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/plugins/custom-logo-plugin/static/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/plugins/junit-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/plugins/junit-plugin/junit-plugin-2.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/plugins/junit-plugin/lib/doxia-sink-api-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/plugins/junit-plugin/lib/maven-reporting-api-3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/plugins/junit-plugin/lib/surefire-report-parser-2.19.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/plugins/packages-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/plugins/packages-plugin/plugin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/plugins/packages-plugin/static/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/plugins/screen-diff-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/plugins/screen-diff-plugin/static/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.0.1/plugins/screen-diff-plugin/static/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/bin/allure" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/bin/allure.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/config/allure-cucumber.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/config/allure-junit.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/config/allure.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/allure-commandline-2.6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/allure-generator-2.6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/allure-plugin-api-2.6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/allure1-model-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/allure2-model-api-1.0-BETA4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/allure2-model-jackson-1.0-BETA4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/allure2-model-pojo-1.0-BETA4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/commons-beanutils-1.9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/commons-codec-1.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/commons-collections-3.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/commons-io-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/commons-lang3-3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/commons-text-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/config/jetty-logging.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/config/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/flexmark-0.28.18.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/flexmark-util-0.28.18.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/freemarker-2.3.23.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/httpclient-4.5.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/httpcore-4.4.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/jackson-annotations-2.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/jackson-core-2.9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/jackson-databind-2.9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/jackson-dataformat-xml-2.9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/jackson-dataformat-yaml-2.9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/jackson-module-jaxb-annotations-2.9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/javax.servlet-api-3.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/jaxb-api-2.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/jaxb-utils-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/jcommander-1.72.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/jetty-http-9.4.8.v20171121.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/jetty-io-9.4.8.v20171121.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/jetty-server-9.4.8.v20171121.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/jetty-util-9.4.8.v20171121.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/opencsv-4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/properties-2.0.RC5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/slf4j-api-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/slf4j-log4j12-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/snakeyaml-1.18.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/stax2-api-3.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/tika-core-1.16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/lib/woodstox-core-5.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/plugins/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/plugins/behaviors-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/plugins/behaviors-plugin/plugin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/plugins/behaviors-plugin/static/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/plugins/custom-logo-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/plugins/custom-logo-plugin/static/custom-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/plugins/custom-logo-plugin/static/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/plugins/junit-xml-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/plugins/junit-xml-plugin/junit-xml-plugin-2.6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/plugins/packages-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/plugins/packages-plugin/plugin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/plugins/packages-plugin/static/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/plugins/screen-diff-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/plugins/screen-diff-plugin/static/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/plugins/screen-diff-plugin/static/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/plugins/trx-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/plugins/trx-plugin/trx-plugin-2.6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/plugins/xctest-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/plugins/xctest-plugin/lib/xmlwise-1.2.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/plugins/xctest-plugin/xctest-plugin-2.6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/plugins/xunit-xml-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.allure/allure-2.6.0/plugins/xunit-xml-plugin/xunit-xml-plugin-2.6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-task/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-task/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-task/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-task/src/main/java/CogwheelComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/test-task/src/main/java/CogwheelComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-task/src/main/java/CommonLeftSideBarComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/test-task/src/main/java/CommonLeftSideBarComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-task/src/main/java/MedicationPropertiesList.java" beforeDir="false" afterPath="$PROJECT_DIR$/test-task/src/main/java/MedicationPropertiesList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-task/src/main/java/MedicationRequestComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/test-task/src/main/java/MedicationRequestComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-task/src/main/java/NewMedicationRequestPageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/test-task/src/main/java/NewMedicationRequestPageObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-task/src/main/java/SignInPageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/test-task/src/main/java/SignInPageObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-task/src/main/java/SingInComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/test-task/src/main/java/SingInComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-task/src/test/java/LogInNegativeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test-task/src/test/java/LogInNegativeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-task/src/test/java/LogInTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test-task/src/test/java/LogInTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-task/src/test/java/LogOutTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test-task/src/test/java/LogOutTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-task/src/test/java/NewRequestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test-task/src/test/java/NewRequestTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-task/target/classes/CogwheelComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/test-task/target/classes/CogwheelComponent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-task/target/classes/CommonLeftSideBarComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/test-task/target/classes/CommonLeftSideBarComponent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-task/target/classes/MedicationPropertiesList.class" beforeDir="false" afterPath="$PROJECT_DIR$/test-task/target/classes/MedicationPropertiesList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-task/target/classes/MedicationRequestComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/test-task/target/classes/MedicationRequestComponent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-task/target/classes/NewMedicationRequestPageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/test-task/target/classes/NewMedicationRequestPageObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-task/target/classes/SignInPageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/test-task/target/classes/SignInPageObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-task/target/classes/SingInComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/test-task/target/classes/SingInComponent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-task/target/test-classes/LogInNegativeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-task/target/test-classes/LogInTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-task/target/test-classes/LogOutTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-task/target/test-classes/NewRequestTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-task/test-task.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-task/test.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/test-task" />
+  </component>
+  <component name="ProjectId" id="1lQSV7BfmbHLGxlgwuAh73fKDEZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../try3" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Test\test-task\target" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.LogInTest">
+    <configuration name="LogInNegativeTest" type="TestNG">
+      <module name="test-task" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LogInNegativeTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogInTest" type="TestNG">
+      <module name="test-task" />
+      <useClassPathOnly />
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk-15.0.1/bin" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LogInTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogOutTest" type="TestNG">
+      <module name="test-task" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LogOutTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewRequestTest" type="TestNG">
+      <module name="test-task" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NewRequestTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.NewRequestTest" />
+      <item itemvalue="TestNG.LogOutTest" />
+      <item itemvalue="TestNG.LogInNegativeTest" />
+      <item itemvalue="TestNG.LogInTest" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5d3b328-a401-4fe1-8bb1-6f3ffa540814" name="Default Changelist" comment="" />
+      <created>1607527842814</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607527842814</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
